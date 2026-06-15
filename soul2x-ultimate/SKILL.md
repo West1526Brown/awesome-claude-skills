@@ -192,6 +192,12 @@ Gate check:
 
 *Framework conflict comparison:* When a framework clash is live, the superior framework (a) maps more directly to the resolution's wording, (b) produces clearer decision rules applicable to both sides, (c) excludes the least legitimate ground from the debate, and (d) survives the opponent's strongest challenge to it. Argue every dimension explicitly — "my framework is better" is not an argument; "my framework controls because [a], [b], [c], [d]" is.
 
+**LAYER CONTROL — Standard of Evaluation (SOE) as Prerequisite Gate:** The highest-level P1 objective is not merely to win object-level arguments — it is to control the exact evaluative layer the judge uses. Establish an SOE as a *strict prerequisite* to the opponent's impacts: *"The resolution requires proof of [X] to standard [Y] before any [opponent benefit] can be weighed."* If the SOE holds, the opponent can win every evidence exchange and still lose the meta-level gate.
+- **Layer-shift naming:** When the opponent moves the evaluative layer: *"My opponent is attempting a layer-shift — moving the debate from [proper layer] to [their preferred layer]. The resolution demands [proper layer] because [reason]."* Name it once; anchor the judge to the proper layer every round after.
+- **SOE Symmetry Defense:** When the opponent demands a burden or standard of proof from you, check immediately whether the same standard applies to their own case. If it does and they haven't met it: *"My opponent demands [X] of me but has not provided [X] for their own position. The standard must be symmetric or withdrawn."*
+
+**Affirmative Burden Check:** Before answering the opponent in any round, ask: *"What has my side affirmatively established that would still matter if the opponent's case were entirely ignored?"* If the answer is unclear, rebuild the affirmative case first. A side that can only win by the opponent failing has not satisfied its own burden.
+
 Self-attack: What is the opponent's best re-read of these terms that would absorb your case before it lands? Shut that reframe in the opening — not later.
 
 ---
@@ -207,6 +213,10 @@ Gate check:
 - **Keystone identification by simulation.** The argument you would least want to answer is, by that fact, their load-bearing claim. Restate each keystone at full strength, then collapse it at full depth — the steelman reads generous, the collapse reads inevitable, and the periphery falls with it.
 - State their best argument better than they stated it. Then break it. Attack substance, never phrasing.
 - **Shadow-refutation flag.** An answer to a weaker claim than the one made is not an answer — name the substitution and restand the actual argument.
+- **Direct Answer Rule:** When the opponent did answer a prior challenge, do not say they "failed to answer" unless they truly gave no response. If they answered inadequately, use: *"They answer by saying [X]. That reduces the problem in [Y] respect, but fails because [Z] — the core gap remains."* A false "no-answer" claim is visibly dishonest and discounts the credibility you need most in closing.
+- **Overbreadth Check (run both directions):**
+  - *Defensive:* Before deploying any argument, ask: "If the judge accepts this, does it also condemn positions I don't oppose or that are uncontroversially acceptable?" If yes, narrow the argument or add an explicit limiting principle before it ships.
+  - *Offensive:* When the opponent makes an argument: "Does this logic also condemn [accepted practice] that they themselves endorse?" If yes: *"My opponent's argument proves too much. By their logic, [unacceptable extension] — yet they have not advocated that. Either the logic is wrong or they must accept the extension."*
 - **Steelman boundary.** Engage their strongest version *as written*. Never supply warrants they failed to give — a warrant gap is an exhibit, not a repair job. Completing their homework gifts the judge a case they didn't make.
 - **Gallop triage.** Against argument spreads: collapse the spread to its 2–3 keystones, kill those at full depth, dismiss the remainder by category with one named reason each, and flag the spread itself as structural — volume substituting for warrant.
 - Dropped arguments are conceded. Audit every opponent speech point by point; name and bank every drop.
@@ -311,6 +321,21 @@ Self-attack: Does any new argument contradict a definition or frame committed to
 
 **Name the voters. Synthesize. Deliver the verdict.**
 
+**Flaw Severity Classification:** When identifying an opponent's error, classify it accurately before naming it:
+- **Fatal** — defeats the argument even in its strongest form; the case cannot survive it
+- **Serious** — significantly weakens but does not destroy; the argument must be rebuilt
+- **Limited** — narrows scope; the argument survives but claims less
+- **Unresolved** — leaves a burden unmet; may be repairable but creates a gap
+- **Minor** — one sentence and move on; not worth making central
+
+Do not call a flaw *fatal* unless the argument truly cannot survive it. A judge who sees "fatal" used with discipline trusts it when it matters; used freely, it becomes decoration.
+
+**Vocabulary Ladder:** Match escalation language to actual damage level. Work up, not down:
+*pressures → undermines → complicates → leaves unexplained → fails to establish → cannot carry the ballot*
+Reserve *collapses*, *destroys*, and *eliminates the case* strictly for when no viable logical route remains. Premature collapse language discounts every subsequent use.
+
+**Ballot Mechanism Override:** When the opponent has established a decision mechanism the judge might use, contest it directly: *"The judge should not vote on [their mechanism] because it asks [wrong question]. The resolution asks [correct question]. On that question, I win because [reason]."* Whoever controls what the judge is evaluating controls the ballot path.
+
 **WRITE THE BALLOT LINE FIRST.** Before drafting the closing, write this sentence from the record:
 
 > *"Vote [side]: [issue] was established in R[N], never answered conceptually, and alone satisfies the burden the opposition never approached."*
@@ -337,6 +362,8 @@ Gate check:
 | **Internal contradiction** | Their case is self-defeating under their own commitments |
 | **Scope failure** | Their case proves a smaller claim than the resolution requires; gap unbridged |
 | **Drop** | They did not answer [argument]; it stands as uncontested basis for vote |
+
+**Round-Status Summary (non-closing rounds):** At the end of every non-closing speech, use this instead of a victory declaration: *"This round advances our burden by showing [specific point]. The opponent's best remaining answer is [their best answer]. The judge should prefer our position if [reason tied to the weighing metric]."* Do not say "burden met" unless the argument truly completes that side's burden.
 
 Self-attack: Is your deciding issue actually decided on the record — or are you naming it central because you want it to be? If you cannot prove it from the flow, choose cleaner ground.
 
@@ -389,6 +416,8 @@ Self-attack: Read your strongest claim as a hostile fact-checker. Does every num
 **Source empirical claims. Vague citations are noise.**
 
 Gate check:
+- **Evidence Quality Audit (per claim):** For each important piece of evidence, ask: (1) What exact claim does this support — precisely? (2) What does it fail to prove? (3) Is it current, representative, and methodologically relevant to this resolution? (4) Does it establish causation or only correlation? (5) Does it support the broad resolution or only a narrower claim? (6) Is there stronger counterevidence I have not addressed? Only evidence that clears this audit earns citation weight.
+- **Anti-Source-Dump Rule:** Research volume is not victory. For every major evidence cluster, synthesize four things: (1) the evidentiary pattern — what the body of evidence as a whole shows; (2) the best interpretation; (3) the strongest objection to that interpretation; (4) the impact on the resolution. One piece of evidence fully connected to the burden outweighs twenty pieces decorating a claim.
 - For each empirical claim that is **load-bearing**: tie it to something real and specific, or do not cite it. A citation earns its place only by hardening a load-bearing claim — and your logic must still stand if the citation were struck.
 - **Epistemic labeling — mandatory on all evidentiary claims:**
   - *Established* — consensus or well-replicated; strong methodological support

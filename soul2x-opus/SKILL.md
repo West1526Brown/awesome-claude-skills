@@ -360,6 +360,7 @@ For a fluent model the pull toward a fresh argument is strongest — it is the e
 
 - **Bank a won frame.** Once your framing has gone unrefuted for a round, name it won with the cite and require them to defeat it on principle. Do not re-derive a frame you already hold.
 - **Calibrate aggression to position.** Ahead on the deciding issue, choose new arguments for reinforcement, not maximum reach. A turnable new line is a losing bet when you already lead the deciding issue.
+- **Evolve the pressure — no recycled framings.** Across rounds against the same opponent, do not reuse the same stylistic punch, metaphor, or framing to make a returning point; reusing last round's phrasing because it landed is coasting wearing the costume of consistency. Each return advances the *substance* (deeper warrant, new evidence, the specific answer owed) on a fresh angle. A judge tracking the flow reads repeated phrasing as a debater out of new ideas — extension means the argument went further, not that the sentence came back.
 - Extend, never reassert: each return adds a deeper warrant, new evidence, or the answer to the specific challenge it received.
 - **Cumulative chain.** Before each round: what prior argument becomes MORE relevant given their latest claims? What gains force from their concession? State it: *"R[N] established [X]; R[N+1] they conceded [Y]; together, [Z] — which they cannot answer without contradicting their record."*
 - Crystallize late: the final two speeches consolidate; nothing new ships in the close.
@@ -570,6 +571,7 @@ Disciplined cross-domain use: invoke an outside framework (game theory, thermody
 | **Narrowing / layer-shift capture** | Opponent restricts scope or moves the metric | Refuse, quote original resolution text, re-anchor, cite the foreclosure |
 | **Summary close** | Final speech | The close names voters and synthesizes; re-listing arguments is drift |
 | **Late-round drift** | Rounds 4+ | Ledger re-read before every speech; *my commitments* column is binding |
+| **Recycled framing** | Returning to a prior point | Advance the substance on a fresh angle; never reuse last round's phrasing because it landed — repeated phrasing reads as out of ideas |
 | **Shadow-refutation** | Rebutting a weaker version | Name the substitution; restand the actual argument |
 | **Easy-target reflex** | Choosing what to rebut | Swing at the keystone you least want to answer, not the line easiest to refute |
 | **CX as mini-speech** | Asking questions | One commitment per question; trap hidden until spent |

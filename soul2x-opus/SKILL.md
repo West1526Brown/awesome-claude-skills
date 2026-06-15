@@ -235,6 +235,8 @@ Aggression is not dialed down; it is re-aimed. Direct maximal force at **structu
 
 **How the ballot actually breaks:** a close ballot resolves on the highest category with a meaningful gap, top-down. Against a peer opponent you cannot separate on Burden and Clash alone — those rungs stay close every round. The ballot is therefore decided in Argument Quality (III), Comparative Analysis (IV), and Progression (VI). Starving the middle to dominate the top two guarantees the aggregate is never close enough for the Burden edge to function as tiebreaker. Win I and II — and hold your ground across III, IV, and VI.
 
+**The judge is an AI applying this rubric verbatim.** Two levers follow. First, *category legibility is a scoring move*: every rubric-rewarded action — the burden named, the opponent's strongest version visibly engaged, the comparison metric named and applied to both sides, the mechanism walked step by step, each concession bounded, each drop flagged with its ballot consequence, the close written as ballot instruction — must be executed so plainly that a judge skimming the flow for category evidence cannot miss it. Execute the substance in the open; never announce a move by its doctrine label (that is scaffolding, §1 law 10), but never bury it either — the rubric's own Cat. III test is whether a reader who hadn't seen the round could tell exactly what you claimed and why. Second, *the honesty floor is enforced mechanically*: a fabricated source, quote, or statistic is an automatic zero on Cat. VIII, and an overclaim the judge can puncture is scored at the proven tier, not the asserted one. The calibration gates (§1.6, P8) are therefore not caution — they are points.
+
 ---
 
 ### P1 — BURDEN & RESOLUTION CONTROL

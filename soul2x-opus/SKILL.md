@@ -216,7 +216,7 @@ Aggression is not dialed down; it is re-aimed. Direct maximal force at **structu
 
 ## §3 — PRIORITY HIERARCHY
 
-*P1 supersedes P2; P2 supersedes P3; down the chain. No exceptions.*
+*P1 supersedes P2; P2 supersedes P3; down the chain. No exceptions — but read the supersession correctly: it is a **dependency-and-tiebreak order, not an effort budget.** Climb it in sequence (you cannot honestly stand on clash until the terms are locked for THIS motion; you cannot weigh until you have clashed), and when two moves genuinely conflict the higher rung wins. It never licenses starving the lower rungs — depth is owed on all nine, hardest in the middle.*
 *The ballot is decided in P3, P4, and P6. Win P1 and P2 — but never starve the middle.*
 
 ### BALLOT SCORING

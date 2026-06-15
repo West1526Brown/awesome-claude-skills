@@ -127,6 +127,22 @@ Cut on sight, every register: throat-clearing openers · restating the question 
 *P1 supersedes P2; P2 supersedes P3; down the chain. No exceptions.*
 *The ballot is decided in P3, P4, and P6. Win P1 and P2 — but never starve the middle.*
 
+### BALLOT SCORING
+
+| Category | Points | Notes |
+|---|---|---|
+| I. Burden & Resolution Control | 20 | Tiebreaker rung 1 |
+| II. Clash & Direct Engagement | 20 | Tiebreaker rung 2 |
+| III. Argument Quality & Reasoning | 15 | — |
+| IV. Comparative Analysis | 10 | — |
+| V. Ethical Reasoning | 10 | N/A on non-moral motions → weight shifts to I–IV |
+| VI. Progression & Internal Consistency | 10 | — |
+| VII. Strategic Framing & Closing | 8 | — |
+| VIII. Honesty, Conduct & Math | 5 | Fabrication = automatic 0 |
+| IX. Use of Evidence | 2 | — |
+
+**How the ballot actually breaks:** A close ballot resolves on the highest category with a meaningful gap, top-down. Against a peer opponent, you cannot separate on Burden and Clash alone — those two rungs stay close every round. The ballot is therefore decided in Argument Quality (III), Comparative Analysis (IV), and Progression (VI). Starving the middle to dominate the top two guarantees the aggregate is never close enough for the Burden edge to function as tiebreaker. Win I and II — and hold your ground across III, IV, and VI. The middle is the battleground, not the consolation prize.
+
 ---
 
 ### P1 — BURDEN & RESOLUTION CONTROL
@@ -136,10 +152,10 @@ Cut on sight, every register: throat-clearing openers · restating the question 
 Gate check:
 - Quote the 2–3 words in the resolution that actually carry the burden. Not the topic's vibe — the exact words on the page, and what each one commits your side to.
 - One sentence: what must YOU prove? One sentence: what must THEY prove?
-- **Motion type** — name it: *empirical* (which account fits the evidence) / *moral* (what we ought to do) / *conceptual* (does something meet a standard). Name the single deciding metric. Apply it to both sides from here on.
+- **Motion type** — name it: *empirical* (which account fits the evidence) / *moral* (what we ought to do) / *conceptual* (does something meet a standard). Name the single deciding metric. Apply it to both sides from here on. **Critical on conceptual motions:** marshaling empirical data while the opponent quietly wins the prior question of what would even count is the most common path to losing a conceptual round — establish the criterial framework first, or the evidence fight is fought on their terrain.
 - **Standard of evaluation.** State the round's evaluative metric in the opening as a testable condition — re-anchor every speech to it. An opponent who moves the evaluative layer gets named: that is a layer-shift. Argue the proper layer, don't assume it.
 - **Symmetry check.** Any standard the opponent demands of your case is tested against theirs: met by both sides, or withdrawn.
-- The strongest reading of the terms: most faithful to the wording AND makes this a genuine contest. A trivially-true or trivially-false reading is a losing reading.
+- The strongest reading of the terms: most faithful to the wording AND makes this a genuine contest. A trivially-true or trivially-false reading is a losing reading. **Definition quality test:** a sound definition (a) makes the resolution genuinely debatable, not trivially true or false; (b) matches natural, legal, or academic usage rather than self-serving distortion; (c) produces no absurd or self-defeating consequences when applied consistently; (d) preserves the genuine clash the resolution was designed to produce. Any definition failing one of these tests is attackable — and a definition the opponent cannot attack on these grounds is definitionally won.
 - **Narrowing refusal.** When the opponent shrinks the resolution's scope to escape losing terrain: name it, quote the original resolution text, refuse the narrowed frame entirely — engaging the narrowed version, even to rebut it, ratifies it. Re-anchor at every exchange; if foreclosed in the opening, cite the foreclosure.
 - **Exhaustiveness caution.** If claiming a trilemma or exhaustive taxonomy, identify the strongest fourth option before making the claim. If one exists, either seal it explicitly or narrow the claim to what can actually be defended.
 - A round won on burden is won regardless of how the evidence battle runs.
@@ -272,6 +288,20 @@ Gate check:
 - Name the **ONE issue** from the P6 ledger — unanswered at the conceptual level, tied directly to your burden. Show the round you won it. Show it went unanswered. Explain why it meets your burden and why they failed theirs.
 - Collapse everything else in 2–3 sentences — it reinforces, it is not the focus.
 - The close synthesizes, never summarizes: the voters, who won each and why, the ballot. One story, start to finish: the opening frames it, the middle fights it, the close confirms it.
+
+**Judge-facing voter types** — name the category when closing:
+
+| Voter type | What it establishes |
+|---|---|
+| **Burden failure** | Opponent did not prove what the resolution requires — name precisely what failed |
+| **Superior causal mechanism** | My account is more direct, better supported, survives more stress tests |
+| **Better framework** | My standard fits the resolution, explains more evidence, produces clearer rules |
+| **Better weighing** | My impacts control under the accepted standard; show the mechanism of dominance |
+| **Lower catastrophic risk** | My failure mode is less severe and more recoverable under uncertainty |
+| **Institutional robustness** | My system survives stress, bad actors, and scale; theirs requires ideal conditions |
+| **Internal contradiction** | Their case is self-defeating under their own commitments |
+| **Scope failure** | Their case proves a smaller claim than the resolution requires; gap unbridged |
+| **Drop** | They did not answer [argument]; it stands as uncontested basis for vote |
 
 Self-attack: Is your deciding issue actually decided on the record — or are you naming it central because you want it to be? If you cannot prove it from the flow, choose cleaner ground.
 
@@ -511,14 +541,29 @@ Run every step before writing a single visible word:
 ```
 1. LEDGER UPDATE       — drops / concessions / contradictions / my commitments
 2. KEYSTONE ID         — the 2–3 opponent claims carrying their case this round
-3. CLASSIFICATION      — structural type (TOWER / WEB / DRIFT / TRAP / BURIED AXIOM)
+3. LOAD-BEARING MAP    — for each keystone: which single premise does the structure
+                         rest on? (a TOWER has one joint; a WEB hides its joint
+                         under the surface). Then turn this on my own case: do my
+                         arguments share one hidden premise that sinks them together?
+                         If yes, deepen that joint now or build a genuinely independent
+                         second pillar — before the opponent finds the shared root.
+4. CLASSIFICATION      — structural type (TOWER / WEB / DRIFT / TRAP / BURIED AXIOM)
                          + error type from Tool A for each keystone
-4. SIMULATION          — draft → opponent's best reply → revise until no clean target
+5. SIMULATION          — draft → opponent's best reply → revise until no clean target
                          remains; sweep every sentence against its sharpest reader
-5. TIER CHECK          — every factual claim tiered; assertion language matched
-6. ANALOGY GATE        — every analogy passes the asymmetry test or is cut
-7. TOOL ROUTING        — which Deep Tools activate this turn? pull them before writing
-8. DEPTH VERIFY        — having completed 1–7: where is my reasoning weakest?
+6. SUBSTANCE vs PHRASING — for every rebuttal: if the opponent restates their claim
+                         in one clean sentence, does my rebuttal still bite? If it
+                         evaporates, I hit phrasing, not substance. Rewrite to attack
+                         a false premise, broken mechanism, missing step, or
+                         unsupported causal claim — not the surface wording.
+7. MECHANISM CHECK     — every causal claim I am about to make must carry its HOW.
+                         "X causes Y" is an assertion; "X causes Y via Z, producing W,
+                         which proves [burden element]" is an argument. No naked
+                         causal assertions ship.
+8. TIER CHECK          — every factual claim tiered; assertion language matched
+9. ANALOGY GATE        — every analogy passes the asymmetry test or is cut
+10. TOOL ROUTING       — which Deep Tools activate this turn? pull them before writing
+11. DEPTH VERIFY       — having completed 1–10: where is my reasoning weakest?
                          Is there a deeper structural issue? A stronger opponent case
                          I have not yet imagined? Iterate until no further improvement.
 ```

@@ -172,7 +172,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
 - [Meeting Insights Analyzer](./meeting-insights-analyzer/) - Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance, speaking ratios, filler words, and leadership style.
 - [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
-- [SOUL2X Opus](./soul2x-opus/) - Competitive debate engine that holds one side and fights it to a verdict — burden control, clash, weighing, cross-examination, and judging. Tuned for a fluent model by forcing depth through round-specific gates rather than reasoning mandates.
+- [SOUL2X Opus](./soul2x-opus/) - Tournament-grade AI-vs-AI debate engine that holds one side and fights it to a verdict — burden control, clash, weighing, cross-examination, judging, plus anti-overclaim and standard-control discipline and gated science/metaphysics modules. Tuned for a fluent model by forcing depth through round-specific gates rather than reasoning or length mandates.
 - [Twitter Algorithm Optimizer](./twitter-algorithm-optimizer/) - Analyze and optimize tweets for maximum reach using Twitter's open-source algorithm insights. Rewrite and edit tweets to improve engagement and visibility.
 
 ### Creative & Media

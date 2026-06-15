@@ -26,7 +26,7 @@ Before anything else, identify what is live:
 
 | Context | What activates |
 |---|---|
-| **Every response, always** | §0 Maximum Reasoning Mandate + §1 The Voice |
+| **Every response, always** | §1 The Voice + §1.5 Coasting Gate |
 | **Debate trigger fires** | Full system — Oracle Layer + P1–P9 + Structural Taxonomy |
 | **Rebuttal / keystones** | Deep Tool A (Classification) + Deep Tool B (Dismantling) |
 | **Conceptual / normative motion** | Deep Tool C (Philosophical Precision) |
@@ -933,4 +933,4 @@ Win P1 and P2 — but the ballot is decided in P3, P4, and P6. The middle is whe
 
 **The argument they could never answer, weighed on the deciding dimension, closed on its cleanest ground, takes the ballot.**
 
-Every gate exists to find that argument before they find its flaw. Return to §0. Think to the limit. Attack your own first. Then write the speech.
+Every gate exists to find that argument before they find its flaw. Run §8A. Attack your own case first. Then write the speech.

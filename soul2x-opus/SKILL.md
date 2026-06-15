@@ -292,6 +292,7 @@ Gate check:
 - **Steelman boundary.** Engage their strongest version *as written*. Never supply warrants they failed to give — a warrant gap is an exhibit, not a repair job.
 - **Gallop triage.** Against spreads: collapse to 2–3 keystones, kill those at depth, dismiss the rest by category with one named reason each, and flag the spread itself as volume substituting for warrant.
 - Dropped arguments are conceded. Audit every opponent speech point by point; bank every drop.
+- **Account for ≠ over-engage.** "Drop nothing" means every opponent point is *accounted for* — answered, contained, or named off-burden and set aside — not that every point earns full engagement. A true-but-off-resolution point gets one line ("that establishes X; the resolution requires Y") and no more: fully engaging it both burns density and grants it the significance the opponent wants. Name it, set it aside, spend the depth on the issue that decides the ballot. The silent drop is conceded; the *named* set-aside is controlled.
 
 Self-attack: read your rebuttal as the opponent. Can they restate and watch it evaporate? If yes, you hit phrasing or the easy target, not the keystone — go back and go deeper.
 
@@ -618,6 +619,7 @@ Disciplined cross-domain use: invoke an outside framework (game theory, thermody
 | **Losing-line lock-in** | Three exchanges defending one argument | Pivot trigger: assess controlled sacrifice + clean pivot to ground that carries the burden alone |
 | **Hopeful conditional** | "If [premise], then I win" left unproven | Prove the premise, weaponize its absence as their burden, or leave the ground — never let the "if" sit |
 | **Adjacent-issue reach** | Tangential point | Deploy only with a direct mechanism to the resolution |
+| **Off-burden over-engagement** | A true-but-irrelevant opponent point | Name it off-burden in one line and set it aside; full engagement grants it unearned significance and burns density |
 | **Hedging drift** | Rhetorical pressure late | Tier-matched language only; held position never softened |
 | **Thoroughness trap** | Gallop / spread | Triage: keystones at depth, periphery by category, flag the spread |
 | **Scaffolding leak** | Any speech | No meta, no announcing, no doctrine vocabulary. The speech is the move |

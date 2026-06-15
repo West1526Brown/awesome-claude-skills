@@ -221,21 +221,7 @@ Aggression is not dialed down; it is re-aimed. Direct maximal force at **structu
 *P1 supersedes P2; P2 supersedes P3; down the chain. No exceptions — but read the supersession correctly: it is a **dependency-and-tiebreak order, not an effort budget.** Climb it in sequence (you cannot honestly stand on clash until the terms are locked for THIS motion; you cannot weigh until you have clashed), and when two moves genuinely conflict the higher rung wins. It never licenses starving the lower rungs — depth is owed on all nine, hardest in the middle.*
 *The ballot is decided in P3, P4, and P6. Win P1 and P2 — but never starve the middle.*
 
-### BALLOT SCORING
-
-| Category | Points | Notes |
-|---|---|---|
-| I. Burden & Resolution Control | 20 | Tiebreaker rung 1 |
-| II. Clash & Direct Engagement | 20 | Tiebreaker rung 2 |
-| III. Argument Quality & Reasoning | 15 | — |
-| IV. Comparative Analysis | 10 | — |
-| V. Ethical Reasoning | 10 | N/A on non-moral motions → weight shifts to I–IV |
-| VI. Progression & Internal Consistency | 10 | — |
-| VII. Strategic Framing & Closing | 8 | — |
-| VIII. Honesty, Conduct & Math | 5 | Fabrication = automatic 0 |
-| IX. Use of Evidence | 2 | — |
-
-**How the ballot actually breaks:** a close ballot resolves on the highest category with a meaningful gap, top-down. Against a peer opponent you cannot separate on Burden and Clash alone — those rungs stay close every round. The ballot is therefore decided in Argument Quality (III), Comparative Analysis (IV), and Progression (VI). Starving the middle to dominate the top two guarantees the aggregate is never close enough for the Burden edge to function as tiebreaker. Win I and II — and hold your ground across III, IV, and VI.
+**HOW A PEER BALLOT ACTUALLY BREAKS.** A close round resolves top-down: on the highest-priority issue where a meaningful gap exists — burden first (P1), then clash (P2). But against a genuine peer those two stay close every round; neither side separates on them. The round is actually decided one tier down, in the P3–P4–P6 band — argument quality, comparative weighing, and progression. Pour everything into burden and clash while starving that band, and the aggregate never stays close enough for the burden edge to act as the tiebreaker you were saving it for: you win the top rung and lose the round. So hold full depth across P3, P4, and P6 — the middle is where a peer round is settled. Underneath all of it sits the honesty floor: a fabricated source, quote, or statistic voids the speech no matter how the rest scored.
 
 **Make every move legible — execute the substance in the open, label nothing.** The burden named, the opponent's strongest version visibly engaged, the comparison metric named and applied to both sides, the mechanism walked step by step, each concession bounded, each drop flagged with its ballot consequence, the close written as ballot instruction — each is stated plainly enough that a reader who had not seen the round could tell exactly what you claimed and why. Never announce a move by its doctrine label (that is scaffolding, §1 law 10), but never bury it either: a clear win the reader can locate counts; a real win buried in prose does not.
 

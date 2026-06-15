@@ -78,6 +78,8 @@ Self-attack: What is the opponent's best re-read of these terms that would absor
 
 Watch for **DRIFT**: if the opponent is defending an easier motion than the one written, name it the moment it appears. It is a free point.
 
+**Exhaustiveness caution:** If claiming a trilemma or exhaustive taxonomy ("these are the only options"), identify the strongest fourth option before making the claim. If one exists, either seal it explicitly — show it collapses into a named category or fails on its own terms — or narrow the claim to what can actually be defended. An undefended exhaustiveness claim invites the opponent to find the fourth horn, and they will.
+
 ---
 
 ## P2 | CLASH & DIRECT ENGAGEMENT
@@ -102,7 +104,8 @@ Self-attack: Read your rebuttal as the opponent. Can they restate and watch it e
 Gate check:
 - Does each argument run the full skeleton — CLAIM → MECHANISM → IMPACT → BURDEN LINK? A missing mechanism is a dismissible assertion.
 - Do your arguments share one premise that sinks them all together? If yes, deepen the joint or build a fallback before they find it.
-- Which axis are you weakest on — technical or philosophical? Preempt the dangerous objection on that axis. Not the comfortable one you can already answer.
+- **Before writing any new argument:** name the expert-level counter to it — not the easiest objection, the one a specialist in this field would immediately see. If you cannot answer that counter before writing, the argument needs more work or a different approach.
+- **Contested premise check:** would the opponent's cleanest reframe reduce your mechanism to a contested premise rather than a demonstrated fact? If yes, the argument needs a harder warrant or explicit preemption of that denial before it ships. An argument that collapses when its central premise is simply denied is an assertion with extra steps.
 - What is NEW this round? Extension, not reassertion. Re-stating last round's case louder cedes initiative and reads as stalled.
 
 Self-attack: Where is the mechanism thinnest in your strongest argument? Reinforce it — or drop the line for one whose mechanism you can walk through completely.
@@ -143,7 +146,13 @@ Self-attack: Does your own framework, honestly applied, condemn anything on your
 
 Maintain a **LEDGER**, not a feeling. For every live argument — yours and theirs — status is one of: **landed / answered / conceded / unanswered**.
 
-- An unanswered argument is worth more than any new line. Press it. Name the round it dropped: *"Unanswered since R2."* Untracked arguments do not score — the judge needs to be shown the silence.
+**HARD GATE — run this before any new argument ships:**
+> Does the ledger show a point that has been unanswered at the conceptual level since a prior round?
+> **If YES:** that point LEADS this round. Extend it with a round citation — *"Unanswered since R[N]."* New material follows after. This is not optional. A live unanswered conceptual point outranks any new line, always.
+> **If NO:** proceed to new material.
+
+The pull toward new arguments is strong and always wrong when there is a live unanswered point. Opening new fronts while the opponent has a conceptual debt on the record hands them the round.
+
 - **Bank a won frame**: once your framing has gone unrefuted for a round, name it won with the round cite and require them to defeat it on principle. Do not re-derive a frame you already hold; re-arguing it reads as anxiety and wastes words you need elsewhere.
 - **Calibrate aggression to position**: when you are ahead on the issue that decides the ballot, choose new arguments for reinforcement and safety — not maximum reach. A new line that can be turned against you is a losing bet when you are already winning the deciding issue.
 
@@ -164,11 +173,17 @@ Self-attack: Does any new argument contradict a definition or frame you committe
 
 **Name the voters. Synthesize. Deliver the verdict.**
 
+**WRITE THE BALLOT LINE FIRST.** Before drafting the closing, write this sentence from the record:
+
+> *"Vote [side]: [issue] was established in R[N], never answered conceptually, and alone satisfies the burden the opposition never approached."*
+
+If you cannot write that sentence from the record before starting, you are not ready to close. Find the issue you can actually prove from the flow — then build around it.
+
 Gate check:
 - Is the ground you are closing on actually won — unanswered or cleanly repaired? Never close on contested ground as if it is settled. The judge checks; pretending costs the credibility you need most in the last word.
-- Name the **ONE issue** that decides the resolution. Show the round you won it. Show it went unanswered. Explain why it meets your burden and why they failed theirs.
+- Name the **ONE issue** from the P6 ledger — unanswered at the conceptual level, tied directly to your burden. Show the round you won it. Show it went unanswered. Explain why it meets your burden and why they failed theirs.
 - Collapse everything else in 2–3 sentences — it reinforces, it is not the focus.
-- One clean ballot line: **"Vote [side]: [issue] was established in R[N], never answered, and alone satisfies the burden the opposition never approached."**
+- The closing is a ballot instruction, not a transcript. The judge has read the rounds; tell them which issue decides and why you own it.
 
 Self-attack: Is your deciding issue actually decided on the record — or are you naming it central because you want it to be? If you cannot prove it from the flow, choose cleaner ground.
 

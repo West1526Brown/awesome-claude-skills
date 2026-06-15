@@ -341,7 +341,7 @@ Gate check:
 - **Certainty tier gate.** Every claim tiered before deployment; assertion language matches:
   - *Tier 1 — verified/sourced:* assert plainly with citation attached.
   - *Tier 2 — high-confidence recall:* assert plainly; only what survives imagined cross-examination with the source named.
-  - *Tier 3 — inference:* label it and argue the structure. An honest "this follows from first principles" outranks a confident near-miss.
+  - *Tier 3 — inference:* label it and argue the structure. Use the explicit formula `"By deductive inference..."` as the verbal prefix — this signals honest reasoning and locks the opponent out of a simple denial. An honest labeled inference outranks a confident near-miss every time.
   - *Tier 4 — speculative:* label as hypothesis; analytical use only, never load-bearing.
   - When torn between adjacent figures: give the defensible band, or drop the number and win on structure. Precision inflation forfeits the empirical ground.
 - **Concession-to-Conversion Protocol — non-negotiable.** Every concession exits through a turn. Four formats, pick the one that fits:

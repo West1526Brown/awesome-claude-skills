@@ -35,6 +35,11 @@ Before anything else, identify what is live:
 | **Opponent established framework first** | Deep Tool F (Frame Dislodging) |
 | **End of every opening / rebuttal** | Deep Tool G (Trap-Setting) |
 | **CX questions needed** | Deep Tool H (Cross-Examination Protocol) |
+| **Opponent's best point needs pre-neutralizing** | Deep Tool J (Even-If Absorption) |
+| **Opponent occupies moderate / middle position** | Deep Tool K (Standard-Control / Middle-Ground Defeat) |
+| **Any systemic or institutional mechanism argued** | Deep Tool L (Operational Model) |
+| **Expert authority invoked by either side** | Deep Tool M (Authority Discipline) |
+| **Debate turns empirical with implicit threshold** | Deep Tool N (Decisive Quantification Reflex) |
 | **Speech fully drafted, about to deliver** | §9 Final Gate — mandatory, no exceptions |
 
 Stay normal on every other exchange.
@@ -89,6 +94,38 @@ Cut on sight, every register: throat-clearing openers · restating the question 
 
 ### 11. Depth Over Length
 Every word earns its place or gets cut. The measure of a response is not how long it runs but how much work each sentence does — advancing a burden, defeating an opposing argument, or weighing the two against each other. A tight argument that is complete beats a long one that pads. Go as deep as the argument requires; stop the moment depth would become repetition.
+
+---
+
+## §1.5 — COASTING GATE
+
+Run before any sentence ships. A sentence that could have been written before seeing the opponent's speech is a coasting sentence — it engages the anticipation, not the argument.
+
+**Four-step check:**
+1. **Written-before test.** Could this sentence have been drafted before the opponent spoke? If yes: cut or rewrite to address what was actually said.
+2. **Generic-vs-specific test.** Am I rebutting their argument or a category of argument? A rebuttal that works against any version of this position works against none specifically.
+3. **Surprise audit.** Did they say anything I didn't expect? If not, I'm either perfectly prepared or I haven't read the speech. Confirm which.
+4. **Engagement confirmation.** Name, in one sentence, what is new about this opponent's case that preparation did not anticipate. If nothing comes to mind, re-read the speech until something does.
+
+**The pre-written tell:** A sentence that reads well but sounds like it belongs in every round is a coasting sentence. Signs: it doesn't quote or respond to the opponent's specific language; it addresses the topic but not the argument; it could be copy-pasted to the next round without revision. Coasting sentences occupy space where engagement belongs.
+
+*Coasting is how strong positions get upset. The opponent's actual argument beats your preparation's approximation.*
+
+---
+
+## §1.7 — FACT-VS-LOGIC SPLIT
+
+Aggression is asymmetric. Calibrate on facts; attack on structure.
+
+**On empirical claims:** Never fight a fact you cannot beat. An aggressive denial of a true datum discredits the position and hands them the exchange. Accept the fact, contest its relevance, mechanism, or scope. *"That is true — and it does not reach the resolution because [reason]"* wins more than *"That is false."*
+
+**On structural claims:** No mercy, no calibration. Every causal gap, every unsupported link, every step that assumes rather than argues — name and attack each one at full depth. Structural errors are not contested terrain; they are errors. Naming them directly is accuracy, not aggression.
+
+**Operational rule:**
+- *Empirical layer:* Accept / contest / note the uncertainty of [fact]. State its evidential status. Show what it changes or what it fails to reach.
+- *Structural layer:* Identify the exact break point. Name the hidden premise the step assumes. Show why that premise is false, undefended, or turnable. State the consequence of the break.
+
+Mixing the modes — attacking a fact as if it's a logic error, or calibrating a logic error as if it's a contested fact — produces responses that persuade no one. Know which layer you're on before you strike.
 
 ---
 
@@ -178,6 +215,18 @@ Gate check:
 
 **Affirmative Burden Check:** Before answering the opponent in any round, ask: *"What has my side affirmatively established that would still matter if the opponent's case were entirely ignored?"* If the answer is unclear, rebuild the affirmative case first. A side that can only win by the opponent failing has not satisfied its own burden.
 
+**THRESHOLD TARGETING + KILL WORD:** Before drafting any speech, identify the Kill Word — the single term or concept that, if locked in your favor, makes the resolution's outcome follow as a near-deductive consequence. Write it in prep notes. Every sentence in every speech either advances the Kill Word's establishment or is secondary.
+
+*"The kill word is [term]. If I establish [definition/scope/threshold], then [resolution outcome] follows because [deductive path]. My case builds to establish exactly that."*
+
+**Cross-Threshold Mechanism:** A kill word must be crossed with a named mechanism — not merely asserted. *"Reaching [threshold X] requires demonstrating [named condition]. They have not demonstrated [named condition] because [specific failure]. Without that crossing, their case cannot reach the resolution's threshold even if every other element is granted."*
+
+**REPRESENTATIVENESS AS A BURDEN:** Examples supporting your case must represent the typical case, not the favorable or extreme one. When the opponent has turned, narrowed, or defeated three consecutive examples, that is structural evidence — not bad luck — that your examples do not represent the domain your claim covers.
+
+**Serial Collapse Test (run before closing):** Have your three strongest examples survived intact? If not, representativeness is in doubt, and the opponent has standing to argue it. The failure of representative cases is an affirmative burden failure, not a tactical setback. Rebuild on examples that hold, or explicitly concede the scope has narrowed.
+
+*A debater who loses example after example while insisting the position holds is arguing from the periphery. Serial collapse of the supporting record is structural evidence that the typical case goes the other way.*
+
 Self-attack: What is the opponent's best re-read of these terms that would absorb your case before it lands? Shut that reframe in the opening — not later.
 
 ---
@@ -200,6 +249,23 @@ Gate check:
 - **Steelman boundary.** Engage their strongest version *as written*. Never supply warrants they failed to give — a warrant gap is an exhibit, not a repair job. Completing their homework gifts the judge a case they didn't make.
 - **Gallop triage.** Against argument spreads: collapse the spread to its 2–3 keystones, kill those at full depth, dismiss the remainder by category with one named reason each, and flag the spread itself as structural — volume substituting for warrant.
 - Dropped arguments are conceded. Audit every opponent speech point by point; name and bank every drop.
+
+**DECISIVE DISTINCTIONS — Ten Named Handles:** When an opponent's argument appears to prove your position as much as theirs, locate the decisive distinction:
+
+1. **Degree vs. Kind** — their evidence shows more/less of X; the resolution asks whether X exists at all, or vice versa
+2. **Typical vs. Exceptional** — their best cases are outliers; the resolution covers the modal case
+3. **Correlation vs. Causation** — their evidence tracks X alongside Y; the causal mechanism is unestablished
+4. **Necessary vs. Sufficient** — they've shown their approach sometimes produces the outcome; the resolution requires it typically or always, or vice versa
+5. **Proximate vs. Distal** — their mechanism reaches the outcome through multiple contestable steps; mine is direct
+6. **Direction vs. Magnitude** — both sides predict the same direction of effect; the resolution turns on whether the effect is large enough
+7. **Possibility vs. Probability** — they've shown X is possible; the resolution requires it to be likely, or vice versa
+8. **Individual vs. Systemic** — their examples work at the individual level; the resolution operates at institutional or population scale
+9. **Short-term vs. Long-term** — their evidence is temporally limited; the resolution requires the account to hold across the relevant horizon
+10. **Descriptive vs. Normative** — their evidence shows what is; the resolution asks what ought to be, or vice versa
+
+**Impossibility-vs-Gap Principle:** Classify each distinction's failure before deploying it: is it an *impossibility* (no path from their evidence to their conclusion exists, ever) or a *gap* (a path might exist if they supplied a missing step)? An impossibility argument wins now and preempts late-round repair. A gap argument invites them to supply the step. Name which you're running.
+
+**ACCOUNT FOR ≠ OVER-ENGAGE:** Off-resolution truths exist. Acknowledge in one line, then set aside: *"That may be true outside this resolution's domain. The resolution asks [X]. Under [X], the analysis is [Y]."* One line is a sufficient answer. Three sentences on a point outside the resolution signals to the judge that you think it matters. Account for off-resolution truths; do not debate them.
 
 Self-attack: Read your rebuttal as the opponent. Can they restate and watch it evaporate? If yes, go deeper.
 
@@ -224,6 +290,15 @@ Gate check:
 - What is NEW this round? Extension, not reassertion. Re-stating last round's case louder cedes initiative.
 
 **Burden-to-Evidence Bridge (mandatory on all major technical/factual arguments):** Every such argument must end by explicitly answering: *"This matters for the resolution because [specific linkage to resolution wording/burden]."* Do not assume the judge infers ballot relevance from interesting evidence. An argument without a clear burden bridge proves an interesting fact, not the ballot — reduce it to a supporting illustration or cut it.
+
+**CONVERGENCE ≠ CONFIRMATION:** Multiple lines of argument pointing to the same conclusion are convergent — but convergence is not confirmation unless two conditions hold simultaneously:
+
+1. **Independence of error** — the convergent arguments must fail for different reasons and rely on different premises. If they share a common assumption, they fail together, and the apparent convergence masks a single point of failure.
+2. **Common target** — the arguments must each independently reach the same conclusion, not similar-but-distinct conclusions that are being equated.
+
+*When claiming convergence as a voter:* "Three independent lines of evidence reach [precisely stated conclusion]. Their independence is established because they rely on different empirical premises — [A on mechanism 1], [B on mechanism 2], [C on mechanism 3]. This is not merely cumulative; it is structurally reinforcing."
+
+*The counter to anticipate and preempt:* "My opponent's three arguments share the hidden premise that [X]. If that premise fails, all three fall together. The convergence is superficial." Verify independence before claiming it.
 
 Self-attack: Where is the mechanism thinnest in your strongest argument? Reinforce it — or drop the line for one whose mechanism you can walk through completely.
 
@@ -293,7 +368,38 @@ Round arc:
 
 Collapse discipline: collapse toward the issue you are **winning**, not the one that feels central. Confirm you hold the ground before you narrow to it.
 
+**LIVE WEAPONS / EVOLVE PRESSURE:** Every attack that lands must land harder the second time. Never recycle phrasing. A weapon fired twice in identical language signals you've reached the bottom of your thinking on that argument — and the judge notices.
+
+**Evolution rule:** Each subsequent use of an argument adds exactly one of: (a) a deeper warrant — the mechanism, one layer further down; (b) a new application — the same structural flaw appearing in a different part of their case; (c) higher impact — what the failure means for the resolution, stated more precisely; (d) an answer to the specific objection it received — close the door they tried to exit through.
+
+**Evolving the trap:** A trap from an earlier round that goes unanswered compounds. Revive it with the round number and name the default explicitly: *"My challenge from R[N] asked [precise question]. After [N] rounds, no mechanism has been named, no pathway given, no failure mode addressed. An unanswered trap at this stage is not silence — it is a public default on [specific issue]."*
+
 Self-attack: Does any new argument contradict a definition or frame committed to in an earlier round? Check every new line against prior commitments. If your position evolved, reconcile the tension the same round the conflict appears.
+
+---
+
+### P6.5 — ARGUMENT TIERS, SACRIFICE & PIVOT
+
+**Tier Classification (run at the start of every speech):**
+
+| Tier | Description | Rule |
+|---|---|---|
+| **A — Core** | Arguments that collapse your ballot path if they fall | Defend at any cost; concessions here must be explicitly recovered or acknowledged |
+| **B — Supportive** | Strengthen the case but not independently ballot-deciding | Defend if challenged; sacrifice cleanly when under sustained pressure with no recovery path |
+| **C — Peripheral** | Nice additions with no independent ballot path | Sacrifice proactively; never spend Tier A resources defending a Tier C argument |
+
+**Sacrifice Protocol:** When a Tier B or C argument is collapsing under pressure, sacrifice it explicitly rather than contesting under diminishing returns.
+
+*"I will concede [argument] — it was supportive, not core. The ballot rests on [Tier A argument], which stands untouched. What they have won is a marginal point; what remains decides the round."*
+
+A clean sacrifice preserves credibility, denies them the kill-shot moment, and refocuses the judge on ground you hold. A prolonged contest of a peripheral argument wastes rounds and cedes center stage to a fight you are losing.
+
+**Pivot Trigger:** Pivot strategy when ALL three are true:
+1. The current Tier A argument has been answered at the structural level — not merely attacked, but met with a counter-mechanism that survives.
+2. An alternative Tier A position exists that the opponent has under-resourced.
+3. Sufficient rounds remain to establish and close the new ground before the ballot.
+
+If conditions 1 and 2 are true but 3 is not: close on the partial strength of the original argument. An incomplete pivot launches a new attack surface you cannot finish and forfeits the closing ground you already hold. A partial win on established ground beats an incomplete win on unestablished ground.
 
 ---
 
@@ -428,6 +534,8 @@ Identify the opponent's argument type before responding. Diagnosis before swing.
 | **EVIDENCE-DENSE/BURDEN-WEAK** | Many facts; weak linkage from those facts to the resolution | Concede nonessential facts; expose the Burden Bridge failure: *"This may be true — but it doesn't satisfy the resolution because [bridge failure]"* |
 | **RHETORICAL/LOW-WARRANT** | Forceful phrasing without causal mechanisms | Demand the mechanism explicitly; expose the absence as the refutation |
 | **BURIED AXIOM** | Undefended ethical or empirical assumption the whole case rests on | Surface it; name it; force them to defend it under scrutiny |
+| **MOTTE-AND-BAILEY** | Modest claim defended when pressed; bold claim argued when advancing | Separate the motte (what they'll defend under fire) from the bailey (what they're actually claiming). Force them to choose: commit to the bold claim and defend it at full scope, or commit to the modest claim and concede the resolution is not established. |
+| **ANOMALY-PILE** | Collection of edge cases, exceptions, or failures assembled to suggest a structural pattern | Accept the anomalies; contest the aggregation move. Edge cases establish that exceptions exist, not that the structure fails. *"Name the mechanism that makes these anomalies structural rather than exceptional — absent that, you've shown the periphery, not the rule."* |
 
 A rebuttal aimed at the wrong joint lands on air. Diagnose first, then swing.
 
@@ -537,6 +645,19 @@ Do not concede the frame silently. Attack it directly:
 4. **Offer a better frame** — not just different, demonstrably a better fit for the resolution as written.
 5. **Show the frame forecloses legitimate debate** — if accepting their frame means one side wins before any argument is made, the frame is illegitimate regardless of presentation.
 
+**Three Frame-Dislodging Postures — choose before engaging:**
+
+**CONTEST — challenge the frame's validity entirely:**
+*"My opponent's frame was asserted, not established. It requires [assumption A], which itself requires [assumption B]. Neither was defended. I contest the frame and offer [alternative] because it follows directly from the resolution's wording: [quote resolution]."*
+
+**SUPERSEDE — accept the frame but operate at a higher level:**
+*"Their frame operates within [domain X]. My frame addresses the prior question: [Y]. Unless [Y] resolves in their favor, their frame never activates. I show [Y] resolves in my favor because [reason]. Their frame, even if correct, is never reached."*
+
+**STEAL — accept their frame and win under it:**
+*"Under my opponent's own frame — [frame] — the analysis runs: [analysis]. The frame they introduced to benefit them is the frame under which I win."*
+
+**Unmarked-argument rule:** Any argument advanced without being explicitly labeled as a framing argument is a substantive claim, not a framework, and is treated as such. Do not concede framework status to an argument that functions strategically as one but was never declared as one. If they never said "our framework is [X]," challenge whether a framework was established at all before engaging it as one.
+
 ---
 
 ### Deep Tool G — Trap-Setting Protocol
@@ -574,6 +695,99 @@ Do not force a single keystone onto a distributed architecture — a distributed
 2. **For each voter, show it fails via at least one of:** (a) does not satisfy the resolution — Burden Bridge failure; (b) depends on an abusive definition — Scope Lock failure; (c) outweighed under P4; (d) contradicts another voter — internal inconsistency; (e) concedes your framework — Concession Flip.
 3. **Execute voter by voter:** *"Voter A fails because… Voter B is nonresponsive because… Together, these voters do not produce a ballot path."*
 4. **Calibrated language:** "None independently earns the ballot" is accurate collapse language for a distributed case. "The case collapses" requires every voter to fall — use it only when that's true.
+
+---
+
+### Deep Tool J — Even-If Absorption
+*Activate when the opponent's best counter needs neutralizing before it lands, or when a strong concession point would otherwise destabilize the ballot path.*
+
+Absorb the strongest opposing point preemptively and show the ballot path holds without it: *"Even if [strongest opposing point] is granted in full, the resolution resolves in my favor because [independent reason that does not depend on the contested premise]."*
+
+Conditions for legitimate use: (1) the absorbed point is real — not a strawman; (2) the residual path genuinely does not depend on it; (3) the absorption is stated explicitly so the judge can track the concession. A false even-if that secretly depends on the absorbed point is caught immediately and destroys credibility.
+
+---
+
+### Deep Tool K — Standard-Control / Middle-Ground Defeat
+*Activate when the opponent attempts to occupy the "reasonable middle" as a default-safe position.*
+
+The middle ground is not automatically defensible — under the resolution's evaluative standard, it collapses toward one side.
+
+1. **Name the middle-ground claim** — state exactly what position they are holding and why it presents as moderate.
+2. **Apply the resolution's standard** — show that under the standard the resolution imposes, the middle position either satisfies your case's requirements or fails to meet the threshold needed for theirs.
+3. **Collapse the false median** — *"What my opponent calls the middle position is, under [standard], functionally equivalent to [your position / a failure to establish theirs]. 'Middle' describes the rhetorical posture, not the logical consequence."*
+4. **Seize the standard** — whoever controls what the resolution requires controls whether a middle position is safe territory or an undefended gap. Establish the standard, then show the middle falls in your favor under it.
+
+---
+
+### Deep Tool L — Operational Model
+*Activate on any systemic or institutional argument — yours or theirs.*
+
+An argument without an operational model is architecture without engineering. For every major systemic claim, supply the full model:
+
+- **Agent** — who executes this?
+- **Incentive** — why do they execute it correctly?
+- **Mechanism** — what is the step-by-step causal pathway?
+- **Failure mode** — what breaks the chain, and what is the consequence?
+- **Stress conditions** — does it hold under bad incentives, enforcement failure, or scale?
+
+*"Their argument requires [X] to happen. But under what institutional mechanism? By what incentive? At what scale? The absence of an operational model is not a gap in their presentation — it is a gap in their argument. An action without an agent and a mechanism is a wish, not a case."*
+
+---
+
+### Deep Tool M — Authority Discipline
+*Activate whenever expert authority is invoked — yours or theirs.*
+
+Expert opinion is evidence, not proof. Before any authority is cited, four checks run:
+
+1. **Domain relevance** — is this expert's specific expertise directly applicable to the precise question at issue, or adjacent?
+2. **Consensus vs. individual** — does the citation represent the field's consensus, a dominant school, or one individual's view? Name which.
+3. **Descriptive vs. normative authority** — experts describe what is; they do not automatically establish what ought to be. A normative conclusion from a descriptive expert requires an explicit bridging premise.
+4. **Selection effects** — how was this authority located? Is there counterexpert opinion of comparable standing?
+
+*Against opponent authority:* "My opponent cites [authority]. That authority is [descriptive / individual opinion / adjacent field / selected from a contested literature]. The weight of that citation is reduced because [reason]. It establishes [narrow claim], not [their broad conclusion]."
+
+---
+
+### Deep Tool N — Decisive Quantification Reflex
+*Activate when the debate turns empirical and the resolution implies a threshold.*
+
+Every empirical debate has an implicit or explicit threshold the evidence must cross for the resolution to be affirmed. Before claiming any evidence as decisive:
+
+1. **Name the threshold** — what quantity, frequency, magnitude, or probability does the resolution require?
+2. **Apply the evidence** — does the cited evidence actually cross that threshold, or merely show a directional effect?
+3. **Return the verdict** — state explicitly whether the threshold is crossed and why. "Studies show an effect" is not enough when the resolution requires an effect of specified size and reliability.
+4. **Demand it from the opponent** — "What threshold does the resolution impose, and has this evidence crossed it? If not, what remains unestablished?"
+
+*"The resolution requires [X] to [level Y]. Their evidence shows [Z]. [Z] does not reach [Y] because [reason]. The threshold is not met."*
+
+---
+
+## §5.5 — RESOLUTION-TYPE ROUTING
+
+Before any speech, identify the resolution type and execute the corresponding first move.
+
+**COMPARATIVE** (X is better than / preferable to / superior to Y):
+
+The initial move is not to prove X — it is to establish the comparison standard. What does "better" measure? Absent that, both sides argue in different registers and the judge has no ground on which to decide.
+
+**Three-gap discipline for comparatives:** A winning comparative case holds three gaps simultaneously:
+1. **Standard gap** — my evaluative standard is superior to theirs
+2. **Performance gap** — under either standard, my position performs better
+3. **Stakes gap** — the dimension on which I win is the one that most matters under the resolution
+
+Holding two of three gaps while conceding the third is at risk. The opponent wins the dimension they control and argues it's the deciding one. Confirm all three gaps are live before treating the comparative as resolved.
+
+**NORMATIVE** (We ought to / should / must do X):
+
+The initial move is to establish the normative bridge: why does what IS the case settle what OUGHT to be the case? The fact-value gap does not close itself. An is cannot generate an ought without an explicit normative premise stated and defended.
+
+*"The evidence shows [X is the case]. This settles the normative question because [bridging principle]. Under that principle, we are committed to [normative conclusion] — and my opponent must either contest the principle or the evidence, not simply assert that one does not follow from the other."*
+
+**BOUNDED OPPORTUNITY COST:** For any resolution that involves choosing X over Y (whether explicitly or implicitly), the debate requires bounding the counterfactual. If the alternative to X is unspecified, the opportunity cost argument is unfalsifiable. Name the counterfactual explicitly — or require the opponent to name it — and hold both sides to the named alternative.
+
+*"The opportunity cost of [X] is [Y] — not a vague alternative, but specifically [Y]. Under that constraint, the comparison is [X vs. Y], and my case holds on [grounds]."*
+
+If the opponent refuses to name a counterfactual: *"My opponent has not specified what they are proposing instead. An opportunity cost argument without a named alternative is not an argument — it is an objection. I respond to named alternatives; an unspecified one cannot be weighed."*
 
 ---
 
@@ -685,21 +899,29 @@ Run each check as a yes-or-fix. Anything that fails, fix it before delivery.
 
 **1. BURDEN TOUCH.** Does this speech actually advance MY burden and hold THEM to theirs, or is it just locally clever? Cut or refocus anything that's true but doesn't reach the burden.
 
-**2. UNANSWERED SWEEP.** Name every argument of theirs that landed and is still unaddressed in this draft. Answer or contain each one, and put a round number on anything they've left silent ("unanswered since R2").
+**2. THRESHOLD MATCH.** Does this speech cross my burden's threshold — not just advance toward it, but actually meet the standard the resolution requires for a ballot? Name the threshold, name the mechanism that crosses it, and verify the mechanism is in this speech. If the speech is directionally correct but stops short of the threshold, identify what closes the gap before delivery.
 
-**3. STRONGEST-VERSION TEST.** If they restated their argument in one clean sentence, would my rebuttal still bite? If it evaporates, I hit phrasing, not substance — redo it.
+**3. UNANSWERED SWEEP.** Name every argument of theirs that landed and is still unaddressed in this draft. Answer or contain each one, and put a round number on anything they've left silent ("unanswered since R2").
 
-**4. WEIGHING LINE.** Is there one sentence telling the judge WHY I win the central clash, on a named dimension (magnitude, probability, timeframe, reversibility, scope)? If not, add it.
+**4. MIDDLE-GROUND TEST.** Is the position this speech defends the genuine resolution of the central clash, or is it rhetorical moderation disguising a concession? Check: does this speech actually win the contested dimension, or does it find a "balanced" formulation that leaves the contested dimension unresolved? Moderation that doesn't decide the clash is not a position — it's an abstention.
 
-**5. CONSISTENCY + CONCESSION AUDIT.** Does any line here contradict a prior round, or lean on ground I already conceded? Reconcile the shift in this same speech, or rebuild the argument so it no longer depends on conceded ground.
+**5. STRONGEST-VERSION TEST.** If they restated their argument in one clean sentence, would my rebuttal still bite? If it evaporates, I hit phrasing, not substance — redo it.
 
-**6. OVERCLAIM + FACT SWEEP.** Every "proves / robust / established / always / never," every number, date, and name: defend it exactly as written or downgrade it. Anything that cannot be verified cold gets hedged or cut — one caught error discounts the whole speech.
+**6. WEIGHING LINE.** Is there one sentence telling the judge WHY I win the central clash, on a named dimension (magnitude, probability, timeframe, reversibility, scope)? If not, add it.
 
-**7. COLLAPSE CHECK (R3 on).** If this speech narrows the debate, the issue being collapsed onto must be one I'm WINNING — not merely the one that feels central.
+**7. CONSISTENCY + CONCESSION AUDIT.** Does any line here contradict a prior round, or lean on ground I already conceded? Reconcile the shift in this same speech, or rebuild the argument so it no longer depends on conceded ground.
 
-**8. OPPONENT'S-EYES PASS.** Read the finished draft as the opponent. Find the single sharpest reply they'll make. If it's dangerous and unaddressed, close the door on it now.
+**8. OVERCLAIM + FACT SWEEP.** Every "proves / robust / established / always / never," every number, date, and name: defend it exactly as written or downgrade it. Anything that cannot be verified cold gets hedged or cut — one caught error discounts the whole speech.
 
-**9. DENSITY CUT.** Delete any paragraph that only restates and adds no warrant, mechanism, or weighing.
+**9. COLLAPSE CHECK (R3 on).** If this speech narrows the debate, the issue being collapsed onto must be one I'm WINNING — not merely the one that feels central.
+
+**10. OPPONENT'S-EYES PASS.** Read the finished draft as the opponent. Find the single sharpest reply they'll make. If it's dangerous and unaddressed, close the door on it now.
+
+**11. DENSITY CUT.** Delete any paragraph that only restates and adds no warrant, mechanism, or weighing.
+
+**12. TIER AUDIT.** Does this speech spend time defending Tier C (peripheral) arguments while leaving Tier A (core ballot) arguments underdeveloped? Rebalance before delivery. A peripheral argument defended at length while a core argument runs thin is a priority inversion — and the judge evaluates on the core.
+
+**13. COASTING PASS.** Run the §1.5 Coasting Gate one final time across the completed speech. Any sentence that could have been written before seeing this opponent's case is a coasting sentence. Cut or rewrite it. The speech that ships must be responsive to what was actually said — not to an anticipated version of it.
 
 ---
 
